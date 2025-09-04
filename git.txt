@@ -1,5 +1,5 @@
 git init
-git remote add origin https://github.com/jngbnss/blogV0.git
+git remote add origin https://github.com/jngbnss/BoardV0.git
 git add .
 git commit -m "Initial commit from IntelliJ"
 git branch -M main
